@@ -1,3 +1,0 @@
-model:
-  pretrained_weights: xlnet-base-case
-HYDRA_FULL_ERROR: 1
