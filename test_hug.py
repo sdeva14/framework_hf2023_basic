@@ -4,7 +4,7 @@ import torch
 
 from huggingface_hub import login
 
-login(token="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")
+login(token="")
 
 model = "meta-llama/Llama-2-7b-hf"
 # model = "meta-llama/Llama-2-7b-chat-hf"
