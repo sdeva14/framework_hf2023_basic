@@ -1,0 +1,5 @@
+model:
+  pretrained_weights: xlnet-base-case
+training:
+  num_epochs: 10
+corpus: config_toefl

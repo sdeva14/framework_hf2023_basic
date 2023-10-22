@@ -1,0 +1,4 @@
+# @package _global_
+model:
+  pretrained_weights: xlnet-base-cased
+  activation_fn: gelu

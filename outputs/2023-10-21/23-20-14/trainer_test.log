@@ -1,0 +1,44 @@
+[2023-10-21 23:20:18,243][stanza][INFO] - Checking for updates to resources.json in case models have been updated.  Note: this behavior can be turned off with download_method=None or download_method=DownloadMethod.REUSE_RESOURCES
+[2023-10-21 23:20:18,319][stanza][INFO] - Loading these models for language: en (English):
+========================
+| Processor | Package  |
+------------------------
+| tokenize  | combined |
+========================
+
+[2023-10-21 23:20:18,423][stanza][INFO] - Using device: cuda
+[2023-10-21 23:20:18,423][stanza][INFO] - Loading: tokenize
+[2023-10-21 23:20:21,867][stanza][INFO] - Done loading processors!
+[2023-10-21 23:33:24,555][stanza][INFO] - Checking for updates to resources.json in case models have been updated.  Note: this behavior can be turned off with download_method=None or download_method=DownloadMethod.REUSE_RESOURCES
+[2023-10-21 23:33:24,637][stanza][INFO] - Loading these models for language: en (English):
+========================
+| Processor | Package  |
+------------------------
+| tokenize  | combined |
+========================
+
+[2023-10-21 23:33:24,637][stanza][INFO] - Using device: cuda
+[2023-10-21 23:33:24,637][stanza][INFO] - Loading: tokenize
+[2023-10-21 23:33:24,648][stanza][INFO] - Done loading processors!
+[2023-10-21 23:45:57,915][stanza][INFO] - Checking for updates to resources.json in case models have been updated.  Note: this behavior can be turned off with download_method=None or download_method=DownloadMethod.REUSE_RESOURCES
+[2023-10-21 23:45:57,991][stanza][INFO] - Loading these models for language: en (English):
+========================
+| Processor | Package  |
+------------------------
+| tokenize  | combined |
+========================
+
+[2023-10-21 23:45:57,991][stanza][INFO] - Using device: cuda
+[2023-10-21 23:45:57,991][stanza][INFO] - Loading: tokenize
+[2023-10-21 23:45:57,998][stanza][INFO] - Done loading processors!
+[2023-10-21 23:58:26,929][stanza][INFO] - Checking for updates to resources.json in case models have been updated.  Note: this behavior can be turned off with download_method=None or download_method=DownloadMethod.REUSE_RESOURCES
+[2023-10-21 23:58:26,989][stanza][INFO] - Loading these models for language: en (English):
+========================
+| Processor | Package  |
+------------------------
+| tokenize  | combined |
+========================
+
+[2023-10-21 23:58:26,989][stanza][INFO] - Using device: cuda
+[2023-10-21 23:58:26,989][stanza][INFO] - Loading: tokenize
+[2023-10-21 23:58:26,996][stanza][INFO] - Done loading processors!

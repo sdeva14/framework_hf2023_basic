@@ -1,0 +1,11 @@
+[2023-10-21 22:53:12,168][stanza][INFO] - Checking for updates to resources.json in case models have been updated.  Note: this behavior can be turned off with download_method=None or download_method=DownloadMethod.REUSE_RESOURCES
+[2023-10-21 22:53:12,248][stanza][INFO] - Loading these models for language: en (English):
+========================
+| Processor | Package  |
+------------------------
+| tokenize  | combined |
+========================
+
+[2023-10-21 22:53:12,348][stanza][INFO] - Using device: cuda
+[2023-10-21 22:53:12,349][stanza][INFO] - Loading: tokenize
+[2023-10-21 22:53:15,857][stanza][INFO] - Done loading processors!
