@@ -101,3 +101,4 @@
 [2023-10-22 14:55:01,304][stanza][INFO] - Using device: cuda
 [2023-10-22 14:55:01,304][stanza][INFO] - Loading: tokenize
 [2023-10-22 14:55:01,311][stanza][INFO] - Done loading processors!
+[2023-10-22 15:00:15,515][__main__][INFO] - Epoch 0, Eval: 0.6413373860182371
